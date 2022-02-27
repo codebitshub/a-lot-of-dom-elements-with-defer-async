@@ -1,3 +1,3 @@
-const deferParagraphs = document.querySelectorAll("button");
-console.log("Defer:", deferParagraphs.length);
+const deferDivs = document.querySelectorAll(".content");
+console.log("Defer:", deferDivs.length);
 console.log("Executed defer script");

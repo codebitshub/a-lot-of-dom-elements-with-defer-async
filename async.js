@@ -1,3 +1,3 @@
-const asyncParagraphs = document.querySelectorAll("button");
-console.log("Async:", asyncParagraphs.length);
+const asyncDivs = document.querySelectorAll(".content");
+console.log("Async:", asyncDivs.length);
 console.log("Executed async script");
